@@ -1,4 +1,4 @@
-# Catch-me-if-you-can
+# Catch me if you can
 
 Reinforcement learning project using Unity, 2 agents learn to play catch.
 
