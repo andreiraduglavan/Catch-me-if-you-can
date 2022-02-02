@@ -1,6 +1,6 @@
 # Catch me if you can
 
-Reinforcement learning project using Unity, 2 agents learn to play catch.
+Reinforcement learning project using Unity, 2 agents learn to play catch. For furthre details check <code>Catch me if you can.pdf</code>
 
 <img src='ezgif.com-gif-maker.gif' float='right' >
 
